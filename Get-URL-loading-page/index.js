@@ -1,2 +1,3 @@
-alert(document.URL);
+alert("loading " + document.URL);
+
 
